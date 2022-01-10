@@ -44,7 +44,7 @@ public class Main {
 
         Future<String> task2 = service.submit(() -> {
             // extracting data from spreadsheet
-            Thread.sleep(5500);      // synchronised type thread
+            Thread.sleep(5500);   // synchronised type thread
             return "Hello World From Task 2";
         });
 
