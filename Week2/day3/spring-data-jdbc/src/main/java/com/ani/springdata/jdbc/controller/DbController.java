@@ -26,13 +26,19 @@ public class DbController {
     }
 
     @PostMapping(value = "/v2") // POST - http://localhost:8080/db/v2
-    public String saveV2(@RequestBody Emp emp) {
+    public String saveV2(@RequestBody Emp emp) { // json to java specific object
         service.saveOpV2(emp);
         return "Employee Saved";
     }
 
-    @GetMapping // GET - http://localhost:8080/db/
+    @GetMapping // GET - http://localhost:8080/db/ // java specific object to json
     public @ResponseBody List<Emp> employees() {
         return service.findEmployees();
+    }
+
+    @PutMapping // PUT -> http://localhost:8080/db/
+    public String promoteEmployee(@RequestBody Emp emp) {
+        service.promoteEmployee(emp);
+        return "Employee Updated Successfully";
     }
 }
