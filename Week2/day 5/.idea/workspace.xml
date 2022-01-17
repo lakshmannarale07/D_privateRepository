@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ae90300-d69c-4b95-8feb-6ad3e8b2eaf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/testing/example/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/testing/example/bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/java/testing/example/bank/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/target/classes/testing/example/bank/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/target/classes/testing/example/bank/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/target/classes/testing/example/bank/app/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day1/spring-web-mvc-basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/src/main/java/com/ani/security/basicauth/BasicAuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/src/main/java/com/ani/security/basicauth/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/basic-auth/src/main/java/com/ani/security/basicauth/controller/BankController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/src/main/java/db/Connectivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/src/main/java/menu/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/src/main/java/service/DbService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/target/classes/db/Connectivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/target/classes/menu/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-Study-banking-system/target/classes/service/DbService.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23gs1og9KLZfeja6DuQ3lkhWb8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae90300-d69c-4b95-8feb-6ad3e8b2eaf6" name="Changes" comment="" />
+      <created>1642166855773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642166855773</updated>
+    </task>
+    <servers />
+  </component>
+</project>
